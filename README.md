@@ -1,4 +1,4 @@
 # La yarara flashera
 ==================
 
-Clon of "La yarara" in actionscript.
+Clon of https://github.com/Malguzt/La-Yarara in actionscript.
